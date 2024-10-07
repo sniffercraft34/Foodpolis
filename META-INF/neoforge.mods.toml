@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="MIT License"
+
+[[mods]]
+modId="foodopolis"
+version="0.0.1"
+displayName="Foodopolis"
+displayURL="https://github.com/sniffercraft34/foodopolis"
+credits="Made by sniffercraft34"
+authors="sniffercraft34"
+description="Lots of Food for Minecraft!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.foodopolis]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.6.117,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.foodopolis]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
