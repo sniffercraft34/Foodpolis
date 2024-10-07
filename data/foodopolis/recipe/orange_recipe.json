@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:stalk"
+    },
+    {
+      "item": "foodopolis:ingredient"
+    },
+    {
+      "item": "minecraft:orange_dye"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:orange",
+    "count": 1
+  }
+}

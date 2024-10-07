@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:pasta"
+    },
+    {
+      "item": "foodopolis:cheese"
+    },
+    {
+      "item": "foodopolis:tomato"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:lasagna",
+    "count": 1
+  }
+}

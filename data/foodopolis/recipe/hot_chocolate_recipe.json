@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:chocolate"
+    },
+    {
+      "item": "foodopolis:ingredient"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:hot_chocolate",
+    "count": 1
+  }
+}

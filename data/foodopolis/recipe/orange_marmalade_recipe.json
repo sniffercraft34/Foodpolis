@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "foodopolis:orange"
+    },
+    {
+      "item": "foodopolis:ingredient"
+    },
+    {
+      "item": "foodopolis:jar"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:orange_marmalade",
+    "count": 1
+  }
+}

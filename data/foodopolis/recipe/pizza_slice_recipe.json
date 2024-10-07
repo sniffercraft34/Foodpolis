@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:pizza"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:pizza_slice",
+    "count": 8
+  }
+}

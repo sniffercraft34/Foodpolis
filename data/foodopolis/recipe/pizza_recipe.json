@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:ingredient"
+    },
+    {
+      "item": "foodopolis:tomato"
+    },
+    {
+      "item": "foodopolis:cheese"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "foodopolis:pepperoni"
+    },
+    {
+      "item": "foodopolis:spice"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:pizza",
+    "count": 1
+  }
+}

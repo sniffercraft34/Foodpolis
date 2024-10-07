@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:butter"
+    },
+    {
+      "item": "foodopolis:toast"
+    },
+    {
+      "item": "foodopolis:strawberry_jam"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:strawberry_jam_on_toast",
+    "count": 1
+  }
+}

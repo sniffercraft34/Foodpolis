@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:butter"
+    },
+    {
+      "item": "foodopolis:orange_marmalade"
+    },
+    {
+      "item": "foodopolis:toast"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:orange_marmalade_on_toast",
+    "count": 1
+  }
+}

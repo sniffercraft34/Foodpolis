@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:croissant"
+    },
+    {
+      "item": "foodopolis:chocolate"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:pain_au_chocolat",
+    "count": 1
+  }
+}

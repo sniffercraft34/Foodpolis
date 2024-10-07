@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "experience": 1,
+  "cookingtime": 195,
+  "ingredient": {
+    "item": "minecraft:egg"
+  },
+  "result": {
+    "id": "foodopolis:fried_egg"
+  }
+}

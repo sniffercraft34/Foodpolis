@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "foodopolis:strawberry"
+    },
+    {
+      "item": "foodopolis:ingredient"
+    },
+    {
+      "item": "foodopolis:jar"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:strawberry_jam",
+    "count": 1
+  }
+}

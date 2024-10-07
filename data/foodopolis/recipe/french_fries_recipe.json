@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:chip"
+    },
+    {
+      "item": "foodopolis:chip"
+    },
+    {
+      "item": "foodopolis:chip"
+    },
+    {
+      "item": "foodopolis:ingredient"
+    },
+    {
+      "item": "foodopolis:box"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:french_fries",
+    "count": 2
+  }
+}

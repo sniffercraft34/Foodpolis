@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:batter"
+    },
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "foodopolis:box"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:chicken_nuggets",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:vanilla_milkshake"
+    },
+    {
+      "item": "foodopolis:strawberry"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:strawberry_milkshake",
+    "count": 1
+  }
+}

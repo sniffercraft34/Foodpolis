@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "foodopolis:ice_cream_cone"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:vanilla_ice_cream",
+    "count": 1
+  }
+}

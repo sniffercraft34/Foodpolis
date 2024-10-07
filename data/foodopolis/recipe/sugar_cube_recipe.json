@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "id": "foodopolis:sugar_cube",
+    "count": 3
+  }
+}

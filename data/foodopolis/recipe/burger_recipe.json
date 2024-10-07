@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bread"
+    },
+    "b": {
+      "item": "minecraft:cooked_beef"
+    },
+    "c": {
+      "item": "foodopolis:tomato"
+    }
+  },
+  "result": {
+    "id": "foodopolis:burger",
+    "count": 1
+  }
+}

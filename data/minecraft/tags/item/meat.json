@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "foodopolis:lasagna",
+    "foodopolis:chicken_nuggets",
+    "foodopolis:sushi",
+    "foodopolis:cheese_burger",
+    "foodopolis:burger",
+    "foodopolis:pizza_slice",
+    "foodopolis:pizza",
+    "foodopolis:ham_sandwich",
+    "foodopolis:ham",
+    "foodopolis:fried_egg",
+    "foodopolis:fishand_chips"
+  ]
+}

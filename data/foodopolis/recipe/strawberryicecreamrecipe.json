@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "foodopolis:strawberry"
+    },
+    "b": {
+      "item": "foodopolis:vanilla_ice_cream"
+    }
+  },
+  "result": {
+    "id": "foodopolis:strawberryicecream",
+    "count": 1
+  }
+}

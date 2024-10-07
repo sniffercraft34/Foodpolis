@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:fishes"
+    },
+    {
+      "item": "foodopolis:chip"
+    },
+    {
+      "item": "foodopolis:chip"
+    },
+    {
+      "item": "foodopolis:batter"
+    },
+    {
+      "item": "foodopolis:box"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:fishand_chips",
+    "count": 1
+  }
+}

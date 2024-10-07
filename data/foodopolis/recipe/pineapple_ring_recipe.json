@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:pineapple"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:pineapple_ring",
+    "count": 8
+  }
+}

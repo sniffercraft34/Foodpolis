@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:ingredient"
+    },
+    {
+      "item": "foodopolis:pasta"
+    },
+    {
+      "item": "foodopolis:pasta"
+    },
+    {
+      "item": "foodopolis:pasta"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "foodopolis:cheese"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:mac_and_cheese",
+    "count": 1
+  }
+}

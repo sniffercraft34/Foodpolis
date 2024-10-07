@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "foodopolis:ingredient"
+    },
+    "b": {
+      "item": "foodopolis:sugar_cube"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "foodopolis:caramel",
+    "count": 1
+  }
+}

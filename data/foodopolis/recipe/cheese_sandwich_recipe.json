@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bread"
+    },
+    "b": {
+      "item": "foodopolis:cheese"
+    }
+  },
+  "result": {
+    "id": "foodopolis:cheese_sandwich",
+    "count": 1
+  }
+}

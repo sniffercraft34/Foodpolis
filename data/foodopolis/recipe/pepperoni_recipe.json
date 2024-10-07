@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "foodopolis:spice"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "foodopolis:ingredient"
+    }
+  ],
+  "result": {
+    "id": "foodopolis:pepperoni",
+    "count": 5
+  }
+}

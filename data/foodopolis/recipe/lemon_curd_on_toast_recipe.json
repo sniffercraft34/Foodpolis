@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    " c"
+  ],
+  "key": {
+    "a": {
+      "item": "foodopolis:lemon_curd"
+    },
+    "b": {
+      "item": "foodopolis:butter"
+    },
+    "c": {
+      "item": "foodopolis:toast"
+    }
+  },
+  "result": {
+    "id": "foodopolis:lemon_curd_on_toast",
+    "count": 1
+  }
+}
